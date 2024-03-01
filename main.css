@@ -1,0 +1,31 @@
+
+
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.navbar-brand {
+    font-family: "Grenze Gotisch", serif;
+    font-size: 26px;
+    /* font-weight: <weight>;
+    font-style: normal; */
+}
+
+.navbar-nav {
+    font-family: "Grenze Gotisch", serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+#home_section_writing {
+    font-family: "Manrope", sans-serif;
+}
+
+#avi_image {
+    float: right;
+}
+
+#main_section {
+    background-color: #212529;
+}
