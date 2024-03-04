@@ -23,6 +23,7 @@
     margin-right: 40px;
 }
 
+
 #home_section_writing {
     font-family: "Manrope", sans-serif;
 }
@@ -37,6 +38,7 @@
 
 #Featured_Work {
     background-color: #212529;
+    font-family: "Manrope", sans-serif;
     }
     
     /* Card Hover Effect */
