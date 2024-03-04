@@ -29,3 +29,13 @@
 #main_section {
     background-color: #212529;
 }
+
+#Featured_Work {
+    background-color: #212529;
+    }
+    
+    /* Card Hover Effect */
+    .card-clickable:hover {
+    transform: scale(0.98);
+    filter: brightness(70%);
+    }
