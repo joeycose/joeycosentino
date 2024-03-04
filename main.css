@@ -39,3 +39,8 @@
     transform: scale(0.98);
     filter: brightness(70%);
     }
+
+    
+#icons_text {
+    color: lightGrey;
+}
