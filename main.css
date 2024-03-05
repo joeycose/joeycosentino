@@ -24,6 +24,7 @@
 }
 
 
+
 #home_section_writing {
     font-family: "Manrope", sans-serif;
 }
@@ -62,4 +63,12 @@
     
 #footer_icons a {
         margin-right: 10px;
+}
+
+#avi_image {
+    text-align: center;
+}
+
+#github_contact_icon {
+    margin-left: 4px;
 }
