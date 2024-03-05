@@ -1,5 +1,5 @@
 // Get the button element in the Contact Me section
-const copyButton = document.querySelector("#Contact_Me .btn-outline-primary");
+const copyButton = document.querySelector("#Contact .btn-outline-primary");
 
 // Add a click event listener to the button
 copyButton.addEventListener("click", () => {
