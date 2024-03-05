@@ -51,3 +51,15 @@
 #icons_text {
     color: lightGrey;
 }
+
+#Contact_Me {
+    font-family: "Manrope", sans-serif;
+}
+
+#Footer {
+    border-top: 1px solid grey;
+}
+    
+#footer_icons a {
+        margin-right: 10px;
+}
